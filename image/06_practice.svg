@@ -7,9 +7,10 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 1080 1920"
+   viewBox="0 0 1080 2222"
    version="1.1"
    id="svg1696"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
@@ -38,9 +39,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="-56.771495"
-     inkscape:cy="805.18687"
+     inkscape:zoom="0.175"
+     inkscape:cx="-416.29925"
+     inkscape:cy="1117.5911"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -60,7 +61,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -68,9 +69,9 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,211.00002)">
+     transform="translate(0,513.00002)">
     <g
-       transform="translate(-7.3497682e-5,-6002.4686)"
+       transform="translate(-7.3497682e-5,-6327.8859)"
        id="g_practice">
       <path
          transform="matrix(0.99641,0,0,0.99641,-133.19,1912.72)"
@@ -148,87 +149,124 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.5;font-family:Avenir;-inkscape-font-specification:'Avenir, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#501616;fill-opacity:1;stroke:none;stroke-width:1"
        x="82"
-       y="600.2226"
+       y="274.80533"
        id="text2327"><tspan
          sodipodi:role="line"
          id="tspan2411"
          style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:48px;font-family:Avenir;-inkscape-font-specification:'Avenir, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
          x="82"
-         y="600.2226">Practice with one of your organs.</tspan><tspan
+         y="274.80533">Practice with one of your organs.</tspan><tspan
          sodipodi:role="line"
          id="tspan2413"
          x="82"
-         y="673.30994"
+         y="347.89264"
          style="stroke-width:1">We suggest practicing with your stomach</tspan><tspan
          sodipodi:role="line"
          id="tspan2415"
          x="82"
-         y="745.30994"
+         y="419.89264"
          style="stroke-width:1">or heart. Try to feel it, be aware of how </tspan><tspan
          sodipodi:role="line"
          id="tspan2417"
          x="82"
-         y="817.30994"
+         y="491.89264"
          style="stroke-width:1">it behaves through out the day. How does</tspan><tspan
          sodipodi:role="line"
          id="tspan2419"
          x="82"
-         y="889.30994"
+         y="563.89264"
          style="stroke-width:1">it interact with your other body parts and</tspan><tspan
          sodipodi:role="line"
          id="tspan2421"
          x="82"
-         y="961.30994"
+         y="635.89264"
          style="stroke-width:1">your mood in different occasions.</tspan><tspan
          sodipodi:role="line"
          id="tspan2423"
          x="82"
-         y="1033.3099"
+         y="707.89264"
          style="stroke-width:1" /><tspan
          sodipodi:role="line"
          id="tspan2425"
          style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:48px;font-family:Avenir;-inkscape-font-specification:'Avenir, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
          x="82"
-         y="1105.3099">Practice with a Symbiorgan placeholder.</tspan><tspan
+         y="779.89264">Practice with a Symbiorgan placeholder.</tspan><tspan
          sodipodi:role="line"
          id="tspan2427"
          x="82"
-         y="1178.3972"
+         y="852.97998"
          style="stroke-width:1">We also offer Symbiorgan placeholders.</tspan><tspan
          sodipodi:role="line"
          id="tspan2429"
          x="82"
-         y="1250.3972"
+         y="924.97998"
          style="stroke-width:1">They are sticky patches mimicking the size</tspan><tspan
          sodipodi:role="line"
          x="82"
-         y="1322.3972"
+         y="996.97998"
          id="tspan2439"
          style="stroke-width:1"> and texture of a living Symbiorgan.</tspan><tspan
          sodipodi:role="line"
          x="82"
-         y="1394.3972"
+         y="1068.98"
          id="tspan2457"
          style="stroke-width:1">With a Symbiorgan placeholder, you can</tspan><tspan
          sodipodi:role="line"
          id="tspan2433"
          x="82"
-         y="1466.3972"
+         y="1140.98"
          style="stroke-width:1">practice the dailylife of having a </tspan><tspan
          sodipodi:role="line"
          x="82"
-         y="1538.3972"
+         y="1212.98"
          id="tspan2447"
          style="stroke-width:1">Symbiorgan on you, before commit to one. </tspan><tspan
          sodipodi:role="line"
          id="tspan2435"
          x="82"
-         y="1610.3972"
+         y="1284.98"
          style="stroke-width:1" /><tspan
          sodipodi:role="line"
          id="tspan2437"
          x="82"
-         y="1682.3972"
+         y="1356.98"
          style="stroke-width:1" /></text>
+    <a
+       xlink:href="../index.html"
+       transform="translate(0.02968457,1411.505)"
+       id="a5145"
+       target="_top">
+      <g
+         id="g5143">
+        <g
+           transform="matrix(0.90612639,0,0,1,1578.1196,795.59783)"
+           id="g5082"
+           style="stroke:#501616">
+          <path
+             sodipodi:nodetypes="csssc"
+             inkscape:connector-curvature="0"
+             id="path4745"
+             d="m -771.87048,-668.59783 c 27.21205,-0.091 29.22504,-0.34605 40.12942,3.5453 8.79443,3.13839 17.00293,11.05105 17.28028,21.08047 0.3019,10.91703 -4.48667,19.3095 -16.78752,23.15908 -12.16505,3.80707 -17.12367,2.21515 -39.19564,2.21515"
+             style="fill:none;stroke:#501616;stroke-width:4.32926655;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="ccc"
+             inkscape:connector-curvature="0"
+             id="path5055"
+             d="m -759.10829,-682.66369 -14.64645,14.06586 15.17678,14.59625"
+             style="fill:none;stroke:#501616;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+        <text
+           id="text5078"
+           y="178.01227"
+           x="855.27332"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:'Avenir, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#501616;fill-opacity:1;stroke:none;stroke-width:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:Avenir;-inkscape-font-specification:'Avenir, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#501616;fill-opacity:1;stroke-width:1"
+             y="178.01227"
+             x="855.27332"
+             id="tspan5076"
+             sodipodi:role="line">Back to index</tspan></text>
+      </g>
+    </a>
   </g>
 </svg>

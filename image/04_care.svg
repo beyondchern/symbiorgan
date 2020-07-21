@@ -10,7 +10,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 1080 5190"
+   viewBox="0 0 1080 5492.5"
    version="1.1"
    id="svg1776"
    sodipodi:docname="04_care.svg"
@@ -84,8 +84,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.25"
-     inkscape:cx="489.42558"
-     inkscape:cy="429.2924"
+     inkscape:cx="-1006.9519"
+     inkscape:cy="5203.1397"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -96,7 +96,13 @@
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="24,5160.5"
+       orientation="0,1"
+       id="guide888"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <metadata
      id="metadata1773">
     <rdf:RDF>
@@ -105,7 +111,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -113,13 +119,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,3481)">
+     transform="translate(0,3783.5)">
     <g
        id="close"
        style="fill:none;stroke:#501616;stroke-width:1.70041966;stroke-miterlimit:4;stroke-dasharray:none"
        transform="matrix(2.5306628,0,0,2.5306628,1754.1577,-2707.8356)" />
     <g
-       transform="translate(-1.666e-4,-7839.6679)"
+       transform="translate(-1.666e-4,-8140.7738)"
        id="g_lifestyle">
       <path
          transform="matrix(-1.335,0.38459,0.52926,1.6307,1312.4,3714.86)"
@@ -184,7 +190,7 @@
     <image
        sodipodi:absref="C:\Users\IChernLai\Desktop\interface\symbiorgan\image\photosynthesis.png"
        xlink:href="photosynthesis.png"
-       transform="translate(-2,-2994.0921)"
+       transform="translate(-2,-3295.198)"
        clip-path="url(#clipPath3152)"
        width="1137.0103"
        height="655.26733"
@@ -194,7 +200,7 @@
        y="600.7337" />
     <g
        id="text"
-       transform="translate(-41.268766,16)">
+       transform="translate(-41.268766,-285.10595)">
       <text
          id="text2391"
          y="-2784.6018"
@@ -386,6 +392,43 @@
        preserveAspectRatio="none"
        id="image3168"
        x="-226.28572"
-       y="-596.41949" />
+       y="-897.52545" />
+    <a
+       xlink:href="../index.html"
+       target="_top"
+       id="a5145"
+       transform="translate(-59.970315,1411.505)">
+      <g
+         id="g5143">
+        <g
+           transform="matrix(0.90612639,0,0,1,1578.1196,795.59783)"
+           id="g5082"
+           style="stroke:#501616">
+          <path
+             sodipodi:nodetypes="csssc"
+             inkscape:connector-curvature="0"
+             id="path4745"
+             d="m -771.87048,-668.59783 c 27.21205,-0.091 29.22504,-0.34605 40.12942,3.5453 8.79443,3.13839 17.00293,11.05105 17.28028,21.08047 0.3019,10.91703 -4.48667,19.3095 -16.78752,23.15908 -12.16505,3.80707 -17.12367,2.21515 -39.19564,2.21515"
+             style="fill:none;stroke:#501616;stroke-width:4.32926655;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="ccc"
+             inkscape:connector-curvature="0"
+             id="path5055"
+             d="m -759.10829,-682.66369 -14.64645,14.06586 15.17678,14.59625"
+             style="fill:none;stroke:#501616;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+        <text
+           id="text5078"
+           y="178.01227"
+           x="855.27332"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:'Avenir, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#501616;fill-opacity:1;stroke:none;stroke-width:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:Avenir;-inkscape-font-specification:'Avenir, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#501616;fill-opacity:1;stroke-width:1"
+             y="178.01227"
+             x="855.27332"
+             id="tspan5076"
+             sodipodi:role="line">Back to index</tspan></text>
+      </g>
+    </a>
   </g>
 </svg>
